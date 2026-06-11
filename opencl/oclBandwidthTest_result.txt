@@ -1,0 +1,20 @@
+C:\fer\arh2\Lab4\arh2-lab4-opencl\x64\Debug\arh2-lab4-opencl.exe Starting...
+
+Running on...
+
+NVIDIA GeForce GTX 1070 Ti
+
+Quick Mode
+
+Host to Device Bandwidth, 1 Device(s), Paged memory, direct access
+   Transfer Size (Bytes)	Bandwidth(MB/s)
+   33554432			10555.3
+
+Device to Host Bandwidth, 1 Device(s), Paged memory, direct access
+   Transfer Size (Bytes)	Bandwidth(MB/s)
+   33554432			10140.4
+
+Device to Device Bandwidth, 1 Device(s)
+   Transfer Size (Bytes)	Bandwidth(MB/s)
+   33554432			166878.3
+

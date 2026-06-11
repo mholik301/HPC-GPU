@@ -1,0 +1,30 @@
+Initialization took: 0.01172333 sec 
+Iteration 1 took: 0.33322788 sec, quid counter = 396
+Iteration 2 took: 0.22178654 sec, quid counter = 391
+Iteration 3 took: 0.20718634 sec, quid counter = 383
+Iteration 4 took: 0.19274710 sec, quid counter = 374
+Iteration 5 took: 0.18841556 sec, quid counter = 675
+Iteration 6 took: 0.07208657 sec, quid counter = 662
+Iteration 7 took: 0.05778053 sec, quid counter = 681
+Iteration 8 took: 0.04102030 sec, quid counter = 704
+Iteration 9 took: 0.03320084 sec, quid counter = 597
+Iteration 10 took: 0.03441921 sec, quid counter = 800
+Iteration 11 took: 0.05222623 sec, quid counter = 829
+Iteration 12 took: 0.03198593 sec, quid counter = 860
+Iteration 13 took: 0.03966304 sec, quid counter = 831
+Iteration 14 took: 0.06079471 sec, quid counter = 737
+Iteration 15 took: 0.04070335 sec, quid counter = 756
+Iteration 16 took: 0.03423905 sec, quid counter = 777
+Iteration 17 took: 0.03769539 sec, quid counter = 755
+Iteration 18 took: 0.03575960 sec, quid counter = 748
+Iteration 19 took: 0.04871897 sec, quid counter = 792
+Iteration 20 took: 0.03170218 sec, quid counter = 885
+Iteration 21 took: 0.05959401 sec, quid counter = 955
+Iteration 22 took: 0.03410873 sec, quid counter = 933
+Iteration 23 took: 0.05498703 sec, quid counter = 903
+Iteration 24 took: 0.04722656 sec, quid counter = 925
+Iteration 25 took: 0.03303405 sec, quid counter = 961
+Iteration 26 took: 0.04218804 sec, quid counter = 961
+Iteration 27 took: 0.04106007 sec, quid counter = 989
+Iteration 28 took: 0.05907139 sec, quid counter = 1050
+PY_VAR22

@@ -1,0 +1,29 @@
+
+programming results:
+
+Default matrix sizes are: A(128 x 128), B(128 x 128), C(128 x 128)
+enter a matrix multiplier in range [1, 16]
+16
+New matrix sizes are: A(2048 x 2048), B(2048 x 2048), C(2048 x 2048)
+
+Starting CPU compute
+Host computation took 39.050000 seconds to execute
+CPU MatrixMul, Throughput = 0.4399 GFlops/s, Time = 39.05000 s, Size (Op Num) = 17179869184
+
+Starting Host->Device transfer
+Host -> Device data transfer took 0.004000 seconds to execute
+Host -> Device data transfer throughput = 17179.8692 MB/s
+
+Starting GPU compute
+Device computation took 0.007000 seconds to execute
+GPU MatrixMul, Throughput = 2454.2670 GFlops/s, Time = 0.00700 s, Size (Op Num) = 17179869184
+
+Starting Device->Host transfer
+Device -> Host data transfer took 0.002000 seconds to execute
+Device -> Host data transfer throughput = 34359.7384 MB/s
+
+
+C:\fer\arh2\Lab4\arh2-lab4-opencl\x64\Debug\arh2-lab4-opencl.exe (process 3188) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+

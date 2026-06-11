@@ -1,0 +1,12 @@
+C:\fer\arh2\Lab4\arh2-lab4-opencl\x64\Debug\arh2-lab4-opencl.exe Starting...
+
+Device 0: NVIDIA GeForce GTX 1070 Ti
+
+Using Matrix Sizes: A(80 x 160), B(80 x 80), C(80 x 160)
+
+Running Computations on 1 - 1 GPU's...
+
+Comparing results with CPU computation... 
+
+PASSED
+
